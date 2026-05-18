@@ -68,10 +68,18 @@ I utilized artificial intelligence as a collaborative tool to help organize the 
 
 ## Bibliography
 
+Campbell-Kelly, Martin, William Aspray, Nathan Ensmenger, and Jeffrey R. Yost. Computer: A History of the Information Machine. 3rd ed., Westview Press, 2014.
+
 Cortada, James W. Before the Computer: IBM, NCR, Burroughs, and Remington Rand and the Industry They Created, 1865-1956. Princeton University Press, 1993.
 
 Felt, Dorr E. Mechanical Arithmetic, or The History of the Counting Machine. Washington Institute, 1916.
 
-Turck, J. A. V. Origin of Modern Calculating Machines. The Western Society of Engineers, 1921.
+Jones, Matthew L. Reckoning with Matter: Calculating Machines, Innovation, and Thinking about Thinking from Pascal to Babbage. University of Chicago Press, 2016.
+
+Kidwell, Peggy Aldrich. "The Adding Machine Fraternity at Work: Creating Markets for Calculating Machines in the United States, 1880–1915." IEEE Annals of the History of Computing, vol. 22, no. 2, 2000, pp. 4–21.
 
 "Mechanical Calculators: Computing Without Electricity." Low-Tech Magazine, May 2008.
+
+Strom, Sharon Hartman. Beyond the Typewriter: Gender, Class, and the Power of Technology in the American Office, 1900-1930. University of Illinois Press, 1992.
+
+Turck, J. A. V. Origin of Modern Calculating Machines. The Western Society of Engineers, 1921.
