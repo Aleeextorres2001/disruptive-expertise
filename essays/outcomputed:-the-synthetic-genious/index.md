@@ -15,6 +15,14 @@ The mechanical calculator was an early technological marvel that completely tran
 
 Before these machines arrived, a "computer" wasn't a device on a desk. It was an actual job title. Entire rooms of clerks would spend hours crunching numbers for banks, engineering firms, and government offices using nothing but pen, paper, and mental arithmetic. The introduction of the mechanical calculator didn't just introduce a new tool; it completely revolutionized the speed of business. Suddenly, what took a team of human computers a full day to calculate could be done in a fraction of the time by a single person pulling levers and turning cranks.
 
+{% include images/figure-wrap.html
+  image-path="images/1623-calculatingclock.jpg"
+  image-position="right"
+  image-width="46%"
+  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
+  text=britannica_text
+%}
+
 ## The Technology
 
 Before the late 19th century, complex calculation was entirely manual. This changed with the commercialization of mechanical calculators like the Arithmometer and the Comptometer. These machines utilized intricate systems of gears, levers, and pinwheels to physically process addition, subtraction, multiplication, and division. They were large and expensive desktop devices, yet they allowed a single operator to perform arithmetic at unprecedented speeds.
