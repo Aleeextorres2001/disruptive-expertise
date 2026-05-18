@@ -28,7 +28,7 @@ Before these machines arrived, a "computer" wasn't a device on a desk. It was an
 Before the late 19th century, complex mathematical calculation was an entirely manual, painstaking process reliant on human intellect, ink, and paper. This paradigm shifted dramatically with the commercialization of robust mechanical calculators, most notably Thomas de Colmar’s Arithmometer and Dorr Felt’s key-driven Comptometer. These innovative machines utilized intricate, interconnected internal systems of brass gears, stepped drums, levers, and pinwheels to physically execute the core arithmetic functions of addition, subtraction, multiplication, and division. Because they were entirely mechanical and relied on physical movement rather than electrical currents, they were large, heavy, and expensive desktop devices that required a significant capital investment from enterprises. Despite their high cost and physical bulk, they fundamentally revolutionized office environments by allowing a single trained operator to perform highly complex arithmetic at unprecedented, flawless speeds that no human could naturally match.
 
 {% include scrollybox/bg.html
-  image-path="images/printing-press.jpg"
+  image-path="images/1623-calculatingclock.jpg"
   above-box-space="80vh"
   below-box-space="80vh"
   box-align="left"
@@ -38,14 +38,6 @@ Before the late 19th century, complex mathematical calculation was an entirely m
 ## The Moment of Rupture
 
 The historical technological rupture of this era centered fundamentally on the semantic and practical definition of the word "computer." Throughout the 18th and 19th centuries, a computer was not an object, but rather a job title—a human clerk whose sole, exhausting profession was calculating vast columns of numbers entirely by hand for banks, insurance companies, and government bureaus. The commercial introduction of the mechanical calculator threatened to completely automate this specific form of repetitive cognitive labor. For the very first time in human history, society witnessed high-level intellectual work, previously thought to be the exclusive domain of human intelligence, being successfully outsourced to a cold, unthinking assembly of metal parts. This blurred the line between human cognitive talent and mechanical automation, forcing a radical reconsideration of what tasks truly required a human mind.
-
-{% include images/jumbotron.html
-  image-path="images/early-math-calculator-with-handle-bettmann.jpg"
-  height="85vh"
-  background-position="center top"
-  box-align="left"
-  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
-%}
 
 ## Contemporary Reactions
 
